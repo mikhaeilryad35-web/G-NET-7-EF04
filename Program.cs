@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-             
+            //BankContext db = new BankContext();
+
+            //Console.WriteLine("Database Connected Successfully");
         }
     }
 }
